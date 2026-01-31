@@ -1,3 +1,4 @@
+![Banner](shruti.builds.png)
 # Hi, I'm Shrutika 👋
 
 🎓 Computer Science Student  
